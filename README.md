@@ -3,4 +3,4 @@ Este repositorio tiene material académico utilizando diferentes sistemas operat
 ademas se va a trabajar de forma colaborativa 
 
 Los integrantes del grupo seran:
-William Valverde
+William Valverde Betancourt

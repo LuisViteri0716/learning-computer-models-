@@ -4,5 +4,6 @@ ademas se va a trabajar de forma colaborativa
 
 Prueba de Daniel Alegría
 Prueba de Steven Castaño
-Luis Carlos Viteri
 Cristian Zaa
+Luis Carlos Viteri
+

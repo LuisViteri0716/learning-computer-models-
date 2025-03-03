@@ -2,4 +2,4 @@
 Este repositorio tiene material académico utilizando diferentes sistemas operativos y lenguajes de programación 
 ademas se va a trabajar de forma colaborativa 
 
-Maria de los Angeles Flores
+Maria de los Angeles Flores. 

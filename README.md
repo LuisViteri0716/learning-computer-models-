@@ -3,6 +3,9 @@ Este repositorio tiene material académico utilizando diferentes sistemas operat
 ademas se va a trabajar de forma colaborativa 
 
 main
+Cristian Moreno
+
+main
 prueba Cristian Miño
 
 Johan David Coral Marcillo
@@ -17,3 +20,4 @@ Prueba de Steven Castaño
 Luis Carlos Viteri
 Brayan Ceron
 
+main

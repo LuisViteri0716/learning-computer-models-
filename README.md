@@ -11,6 +11,7 @@ Madelin Muñoz
 prueba Alejandra Guerrero
 Prueba de Daniel Alegría
 Prueba de Steven Castaño
+Juan Jacanamejoy
 Cristian Zaa
 Luis Carlos Viteri
 Alejandro Zambrano 
